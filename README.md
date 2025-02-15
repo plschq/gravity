@@ -1,3 +1,3 @@
-November - December / Ноябрь - Декабрь 2022
+November - December / Ноябрь - Декабрь 2022<br />
 JavaFX
-![2025-02-15 09-54-20 - Trim](https://github.com/user-attachments/assets/5088e772-85ca-48ed-8a9b-4168c3a7feec)
+![2025-02-1509-54-20-Trim-ezgif com-speed](https://github.com/user-attachments/assets/9b4eada8-9122-445e-ad7f-246b48f6f5de)
